@@ -1,6 +1,6 @@
  white
  orange
- blue
+ sea is blue
  yellow
  brown
 
