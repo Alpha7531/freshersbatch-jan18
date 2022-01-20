@@ -1,6 +1,6 @@
- white
+ white may decribe simbol of pure
  orange
- blue
+  blue 
  yellow
  brown
 
